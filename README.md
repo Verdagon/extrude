@@ -7,4 +7,6 @@ It only works for certain very well-behaved fonts, and even then, doesn't work o
 Works with:
 * Arial
 * Tahoma
-* 
+* Consolas
+* Courier New
+* Verdana
